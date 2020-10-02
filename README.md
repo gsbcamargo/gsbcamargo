@@ -1,6 +1,6 @@
 <div align="center">
 
-[!(https://raw.githubusercontent.com/gsbcamargo/gsbcamargo/main/wordart.png)]
+![WordArt](https://raw.githubusercontent.com/gsbcamargo/gsbcamargo/main/wordart.png)
   
 # Hi there 👋
 
