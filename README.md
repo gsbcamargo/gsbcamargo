@@ -17,8 +17,7 @@
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 
 - 📫 How to reach me:
-
-> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/gabrielschreiner)
+- > [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/gabrielschreiner)
 &nbsp;
 
 ---
