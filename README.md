@@ -6,7 +6,7 @@
 
 </div>
 
-<div align="right">
+---
 - 🔭 I’m currently working on my university assignments and some personal projects :)
 - 🌱 I’m currently learning Java!
 - 😄 Pronouns: he/him/his
@@ -16,9 +16,7 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/gabrielschreiner)
 &nbsp;
 
-
-</div>
-
+---
 <div align="center">
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsbcamargo)](https://github.com/gsbcamargo/github-readme-stats)
