@@ -2,7 +2,7 @@
 
 ![WordArt](https://raw.githubusercontent.com/gsbcamargo/gsbcamargo/main/wordart2.png)
   
-# Hi there 👋
+## Hello there 👋
 
 ### My name is *Gabriel de Camargo* and I'm a lifelong learner, currently looking forward to becoming a great technology geek :>
 
