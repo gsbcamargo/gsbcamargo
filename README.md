@@ -1,8 +1,8 @@
-<center>
+<div align="center">
   
-### Hi there 👋
+# Hi there 👋
 
-## My name is Gabriel Schreiner Bueno de Camargo and I'm a lifelong learner looking forward to becoming a great technology geek :>
+### My name is Gabriel Schreiner Bueno de Camargo and I'm a lifelong learner looking forward to becoming a great technology geek :>
 
 - 🔭 I’m currently working on my university assignments and some personal projects :)
 - 🌱 I’m currently learning Java!
@@ -16,4 +16,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsbcamargo)](https://github.com/gsbcamargo/github-readme-stats)
 
-</center>
+</div>
