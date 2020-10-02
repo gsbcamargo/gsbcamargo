@@ -2,14 +2,16 @@
   
 # Hi there 👋
 
-### My name is Gabriel Schreiner Bueno de Camargo and I'm a lifelong learner looking forward to becoming a great technology geek :>
+### My name is **Gabriel de Camargo** and I'm a lifelong learner, currently looking forward to becoming a great technology geek :>
+
+#### My personal interest are Software Engineering, Artificial Intelligence and Computer Science!
 
 </div>
 
 ---
-- 🔭 I’m currently working on my university assignments and some personal projects :)
+- 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
 - 🌱 I’m currently learning Java!
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/ele/él
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 
 - 📫 How to reach me:
