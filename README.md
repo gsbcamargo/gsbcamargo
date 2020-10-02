@@ -11,13 +11,13 @@
 </div>
 
 ---
-- 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
-- 🌱 I’m currently learning Java!
-- 😄 Pronouns: he/ele/él
-- ⚡ Fun fact: I used to be a lawyer. Yeah.
+> - 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
+> - 🌱 I’m currently learning Java!
+> - 😄 Pronouns: he/ele/él
+> - ⚡ Fun fact: I used to be a lawyer. Yeah.
 
 - 📫 How to reach me:
-- > [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/gabrielschreiner)
+>> [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/gabrielschreiner)
 &nbsp;
 
 ---
