@@ -12,7 +12,7 @@
 
 ---
 - 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
-- 🌱 I’m currently learning Java, some statistics and Data Science. Multitasking ftw.
+- 🌱 I’m currently learning Java (and it's frameworks), some statistics and Data Science. Multitasking ftw.
 - 😄 Pronouns: he/ele/él
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 - 📫 How to reach me:
