@@ -22,7 +22,7 @@
 
 ---
 <div align="center">
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=graywhite)
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=graywhite)]
   
 ---
   
