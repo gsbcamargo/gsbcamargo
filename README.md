@@ -13,7 +13,7 @@
 ---
 - 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
 - 🌱 I’m currently learning how to be an effective programmer. Mastering the basics.
-- 🏆 I'm very much in love with Python, Go and Rust :D (but what I really like is solving problems, regardless of the tool used).
+- 🏆 I'm very much in love with Python, Go and Rust :D (but what I really like is solving problems, regardless of the tool used). Some good old Java never hurt anyone.
 - 😄 Pronouns: he/ele/él
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 - 📫 How to reach me:
@@ -23,7 +23,7 @@
 ---
 <div align="center">
   
-![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=graywhite)
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=graywhite)]
 
 </div>
   
