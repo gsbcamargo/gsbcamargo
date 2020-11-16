@@ -4,7 +4,7 @@
   
 ## Hello there 👋
 
-### My name is *Gabriel de Camargo* and I'm a lifelong learner, currently looking forward to becoming a great technology geek :>
+### My name is *Gabriel de Camargo* and I'm a lifelong learner, currently looking forward to becoming a great software engineer :>
 
 #### My personal interest in the tech field are Software Engineering, Artificial Intelligence and Computer Science!
 
