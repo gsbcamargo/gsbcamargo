@@ -6,7 +6,7 @@
 
 ### My name is *Gabriel de Camargo* and I'm a lifelong learner, currently looking forward to becoming a great software engineer :>
 
-#### My personal interest in the tech field are Software Engineering, Artificial Intelligence and Computer Science!
+#### My personal interest in the tech field are Software Engineering, Computer Science and Artificial Intelligence!
 
 </div>
 
@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
 - 🌱 I’m always focused on the following path: how to be an effective programmer.
 - 🏆 I'm very much in love with Python, Go and Rust :D (but what I really like is *solving problems*, regardless of the tool used).
-- 📚 Currently learning C# and it's frameworks.
+- 📚 Currently learning advanced Java features and it's frameworks.
 - 😄 Pronouns: he/ele/él
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 - 📫 How to reach me:
