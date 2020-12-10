@@ -12,12 +12,12 @@
 
 ---
 - 🔭 I’m currently on my way to obtaining my (second?) college degree (last year on it, hopefully).
-- 🔜 Finishing some personal projects (can't tell what it is yet tho, hint: SOLID principles) :)
+- 🔜 Finishing some personal projects (can't tell what it is yet tho, hint: SOLID principles) :).
 - 🌱 I’m focused on the following path: how to be an effective and tech-savvy programmer.
 - 🏆 I'm very much in love with Java, Python, Go and Rust :D (but what I really like is *solving problems*, regardless of the tool used).
 - 💖 I do enjoy learning about new subjects and I also love to talk about interesting stuff.
 - 📚 Currently learning advanced Java features and it's frameworks.
-- 😄 Pronouns: he/ele/él
+- 😄 Pronouns: he/ele/él.
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 - 📫 How to reach me:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
