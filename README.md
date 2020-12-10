@@ -11,9 +11,10 @@
 </div>
 
 ---
-- 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho) :)
-- 🌱 I’m always focused on the following path: how to be an effective programmer.
+- 🔭 I’m currently working on my university assignments and some personal projects (can't tell what it is yet tho, hint: SOLID principles) :)
+- 🌱 I’m focused on the following path: how to be an effective and tech-savvy programmer.
 - 🏆 I'm very much in love with Java, Python, Go and Rust :D (but what I really like is *solving problems*, regardless of the tool used).
+- 💖 I do enjoy learning about new subjects and I also love to talk about interesting stuff. Mind it: if you can't explain it simply, you don't understand it well enough.
 - 📚 Currently learning advanced Java features and it's frameworks.
 - 😄 Pronouns: he/ele/él
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
