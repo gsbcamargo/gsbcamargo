@@ -17,7 +17,6 @@
 - 🏆 I'm very much in love with *solving problems*, regardless of the tool used. 
 - 💭 I'm a fan of Python, Java, C#, Go and Rust, each one for a different reason. Now I'm trying to get used to Scala.
 - 💖 I do enjoy learning about new subjects and I also love to talk about interesting stuff.
-- 📚 Currently sharpening my C# (no pun intended) skills.
 - 😄 Pronouns: he/ele/él.
 - ⚡ Fun fact: I used to be a lawyer. Yeah.
 - 📫 How to reach me:
