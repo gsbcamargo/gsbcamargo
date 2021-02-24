@@ -4,7 +4,7 @@
   
 ## Hello there 👋
 
-### My name is *Gabriel de Camargo* and I'm a lifelong learner, currently looking forward to becoming a great software engineer :>
+### My name is *Gabriel de Camargo* and I'm a lifelong learner, currently working as a Junior Java Developer.
 
 #### My personal interests in the tech field are Software Engineering, Computer Science and Programming Languages!
 
