@@ -1,6 +1,4 @@
 <div align="center">
-
-![WordArt](https://raw.githubusercontent.com/gsbcamargo/gsbcamargo/main/wordart2.png)
   
 ## Hello there 👋
 
