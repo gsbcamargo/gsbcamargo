@@ -8,16 +8,7 @@
 
 </div>
 
----
-- 🔭 I’m currently on my way to obtaining my (second) college degree (last year on it, hopefully).
-- 🔜 Finishing some personal projects.
-- 🌱 I’m focused on the following path: how to be an effective and tech-savvy programmer.
-- 🏆 I'm very much in love with *solving problems*, regardless of the tool used. 
-- 💭 I'm a fan of Python, Java and Rust, each one for a different reason. Now I'm trying to get used to Elixir and functional programming.
-- 💖 I do enjoy learning about new subjects and I also love to talk about interesting stuff.
-- 😄 Pronouns: he/ele/él.
-- ⚡ Fun fact: I used to be a lawyer. Yeah.
-- 📫 How to reach me:
+How to reach me:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
 &nbsp;
 
