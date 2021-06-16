@@ -6,7 +6,7 @@
 
 #### My personal interests in the tech field are Software Engineering, Computer Science and Programming Languages!
 </br>
-At the moment I'm diving into Functional Programming with Haskell and Elixir.
+At the moment I'm diving into Functional Programming with Haskell.
 
 </div>
 
