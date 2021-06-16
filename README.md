@@ -1,3 +1,8 @@
+<style type="text/css">
+#element1 {display:inline-block; width:45%; padding:10px}
+#element2 {display:inline-block; width:45%; padding:10px}
+</style>
+
 <div align="center">
   
 ## Hello there 👋
@@ -15,11 +20,11 @@ How to reach me:
 &nbsp;
 
 ---
-<div>
-  
+<div id="element1">
 ![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=graywhite)
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsbcamargo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
+<div id="element2">
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gsbcamargo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
+
 
