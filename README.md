@@ -3,8 +3,6 @@
 #### My personal interests in the tech field are Software Engineering, Compilers and Programming Languages!
 </br>
 At the moment I'm diving into Functional Programming with Haskell (and being slightly beaten by it).
-
-<br>
 <br>
 How to reach me:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
