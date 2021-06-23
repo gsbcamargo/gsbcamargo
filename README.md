@@ -3,7 +3,7 @@
 #### My personal interests in the tech field are Software Engineering, Compilers and Programming Languages!
 </br>
 At the moment I'm diving into Functional Programming with Haskell (and being slightly beaten by it).
-<br>
+</br></br>
 
 
 How to reach me:
