@@ -2,7 +2,7 @@
   "name": "gsbc",
   "version": "0.1.0",
   "description": "Top Secret Info about Gabriel",
-  "main": "./gsbcInfo.json",
+  "main": "./info.json",
   "scripts": {
     "postversion": "npm publish"
   },
