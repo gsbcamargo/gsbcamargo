@@ -8,7 +8,7 @@ At the moment I'm diving into Functional Programming with Elixir (and being slig
 
 How to reach me:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
-  - You can also run `npx gab` to contact-me anywhere 
+  - You can also run `npx gsbc` to contact-me anywhere 
 
 ![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
 
