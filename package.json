@@ -1,16 +1,18 @@
 {
-  "name": "Gabriel",
+  "name": "gsbc",
   "version": "0.1.0",
   "description": "Top Secret Info about Gabriel",
-  "main": "./gabInfo.json",
+  "main": "./gsbcInfo.json",
   "scripts": {
     "postversion": "npm publish"
   },
   "bin": {
-    "carolis": "./gab.js"
+    "gab": "gsbc.js"
   },
   "keywords": [
-    "gabriel"
+    "gsbc",
+    "gabriel",
+    "schreiner"
   ],
   "author": "Gabriel Schreiner",
   "license": "MIT",
