@@ -1,0 +1,25 @@
+{
+  "name": "Gabriel",
+  "version": "0.1.0",
+  "description": "Top Secret Info about Gabriel",
+  "main": "./gabInfo.json",
+  "scripts": {
+    "postversion": "npm publish"
+  },
+  "bin": {
+    "carolis": "./gab.js"
+  },
+  "keywords": [
+    "gabriel"
+  ],
+  "author": "Gabriel Schreiner",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gsbcamargo/gsbcamargo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gsbcamargo/gsbcamargo/issues"
+  },
+  "homepage": "https://github.com/gsbcamargo/gsbcamargo#readme"
+}
