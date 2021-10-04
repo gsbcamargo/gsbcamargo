@@ -1,6 +1,6 @@
 ### My name is **Gabriel Schreiner** 
 
-### and I'm a lifelong learner, currently working with Java and Typescript (Angular). 
+### and I'm a lifelong learner, currently working with Java and mostly TypeScript (Angular). 
 I used to work as a lawyer before that.
 
 #### My personal interests in the tech field are Software Engineering, Programming Languages and their paradigms!
