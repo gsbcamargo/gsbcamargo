@@ -11,7 +11,7 @@ At the moment I'm diving into Functional Programming with Elixir.
 In my free time I like reading (not necessarily technical stuff). I love medieval fantasy!
 </br></br>
 
-:brazil:
+:portugal: / :brazil:
 ### Meu nome é **Gabriel Schreiner**
 
 ### e me considero um eterno aprendiz, atualmente trabalhando com TypeScript (Angular) e um pouco de Java.
