@@ -1,5 +1,5 @@
 
-:uk:
+:uk: / :us:
 ### My name is **Gabriel Schreiner** 
 
 ### and I'm a lifelong learner, currently working mostly with TypeScript (Angular) and some Java. 
