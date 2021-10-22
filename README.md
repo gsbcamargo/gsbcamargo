@@ -25,7 +25,8 @@ No meu tempo livre eu aprecio uma boa leitura (não necessariamente técnica). A
 
 How to reach me (como me encontrar):
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
-  - You can also run `npx gsbc` to contact me (almost) anywhere :) (você também pode executar `npx gsbc`para entrar em contato comigo em [quase] qualquer lugar :))
+  - You can also run `npx gsbc` to contact me (almost) anywhere :)
+  - Você também pode executar `npx gsbc` para me contactar em (quase) qualquer lugar :)
 
 ![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
 
