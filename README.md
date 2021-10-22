@@ -17,7 +17,7 @@ In my free time I like reading (not necessarily technical stuff). I love medieva
 ### e me considero um eterno aprendiz, atualmente trabalhando com TypeScript (Angular) e um pouco de Java.
 Eu era advogado antes disso.
 
-#### Meus interesses pessoais na área tecnológica são Engenhariad e Software, Linguagens de programação e os seus paradigmas!
+#### Meus interesses pessoais na área tecnológica são Engenharia de Software, Linguagens de programação e os seus paradigmas!
 No momento, estou me aprofundando em Programação Funcional com Elixir.
 
 No meu tempo livre eu aprecio uma boa leitura (não necessariamente técnica). Amo fantasia medieval!
