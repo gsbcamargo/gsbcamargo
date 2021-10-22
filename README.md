@@ -23,9 +23,9 @@ No momento, estou me aprofundando em Programação Funcional com Elixir.
 No meu tempo livre eu aprecio uma boa leitura (não necessariamente técnica). Amo fantasia medieval!
 </br><br>
 
-How to reach me:
+How to reach me (como me encontrar):
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
-  - You can also run `npx gsbc` to contact me (almost) anywhere :)
+  - You can also run `npx gsbc` to contact me (almost) anywhere :) (você também pode executar `npx gsbc`para entrar em contato comigo em [quase] qualquer lugar :))
 
 ![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
 
