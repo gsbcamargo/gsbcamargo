@@ -6,7 +6,7 @@
 I used to work as a lawyer before that.
 
 #### My personal interests in the tech field are Software Engineering, Programming Languages and their paradigms!
-At the moment I'm diving into Functional Programming with Elixir and I'm also getting into some Rust.
+At the moment I'm diving into Functional Programming with Elixir and I'm also learning some Rust.
 
 In my free time I like reading (not necessarily technical stuff). I love medieval fantasy!
 </br></br>
