@@ -9,6 +9,10 @@ I used to work as a lawyer before that.
 At the moment I'm diving into Functional Programming with Elixir and I'm also learning Rust.
 
 In my free time I like reading (not necessarily technical stuff). I love medieval fantasy!
+
+How to reach me:
+  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
+  - You can also run `npx gsbc` to contact me (almost) anywhere :)
 </br></br>
 
 :portugal: / :brazil:
@@ -23,9 +27,8 @@ No momento, estou me aprofundando em Programação Funcional com Elixir e també
 No meu tempo livre eu aprecio uma boa leitura (não necessariamente técnica). Amo fantasia medieval!
 </br><br>
 
-How to reach me (como me encontrar):
+Como me encontrar:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
-  - You can also run `npx gsbc` to contact me (almost) anywhere :)
   - Você também pode executar `npx gsbc` para me contactar em (quase) qualquer lugar :)
 
 ![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
