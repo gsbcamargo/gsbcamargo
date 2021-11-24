@@ -25,11 +25,11 @@ Eu era advogado antes disso.
 No momento, estou me aprofundando em Programação Funcional com Elixir e também aprendendo Rust.
 
 No meu tempo livre eu aprecio uma boa leitura (não necessariamente técnica). Amo fantasia medieval!
-</br><br>
 
 Como me encontrar:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
   - Você também pode executar `npx gsbc` para me contactar em (quase) qualquer lugar :)
+</br><br>
 
 ![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
 
