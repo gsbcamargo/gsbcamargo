@@ -2,7 +2,7 @@
 :uk: / :us:
 ### My name is **Gabriel Schreiner** 
 
-### and I'm a lifelong learner, currently working mostly with TypeScript (Angular) and some Java. 
+### and I'm a lifelong learner, currently working mostly with Java. 
 I used to work as a lawyer before that.
 
 #### My personal interests in the tech field are Software Engineering, Programming Languages and their paradigms!
@@ -18,7 +18,7 @@ How to reach me:
 :portugal: / :brazil:
 ### Meu nome é **Gabriel Schreiner**
 
-### e me considero um eterno aprendiz, atualmente trabalhando com TypeScript (Angular) e um pouco de Java.
+### e me considero um eterno aprendiz, atualmente trabalhando com Java.
 Eu era advogado antes disso.
 
 #### Meus interesses pessoais na área tecnológica são Engenharia de Software, Linguagens de Programação e os seus paradigmas!
