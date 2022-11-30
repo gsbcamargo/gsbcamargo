@@ -15,22 +15,6 @@ How to reach me:
   - You can also run `npx gsbc` to contact me (almost) anywhere :)
 </br></br>
 
-:portugal: / :brazil:
-### Meu nome é **Gabriel Schreiner**
-
-### e me considero um eterno aprendiz, atualmente trabalhando com Java.
-Eu era advogado antes disso.
-
-#### Meus interesses pessoais na área tecnológica são Engenharia de Software, Linguagens de Programação e os seus paradigmas!
-No momento, estou me aprofundando em Programação Funcional com Elixir e também aprendendo Rust.
-
-No meu tempo livre eu aprecio uma boa leitura (não necessariamente técnica). Amo fantasia medieval!
-
-Como me encontrar:
-  - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
-  - Você também pode executar `npx gsbc` para me contactar em (quase) qualquer lugar :)
-</br><br>
-
 ![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
 
 ---
