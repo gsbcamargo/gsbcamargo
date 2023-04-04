@@ -1,10 +1,5 @@
 
-### My name is **Gabriel Schreiner** 
-
-### and I'm a lifelong learner, currently working mostly with Java. 
-
-#### My personal interests in the tech field are Software Engineering, Programming Languages and their paradigms.
-At the moment I'm diving into Functional Programming with Elixir and I'm also learning Rust.
+### Welcome!
 
 How to reach me:
   - [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/gabriel-schreiner)
