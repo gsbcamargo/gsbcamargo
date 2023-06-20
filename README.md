@@ -6,7 +6,6 @@ How to reach me:
   - You can also run `npx gsbc` to contact me (almost) anywhere :)
 </br></br>
 
-![ga_ts' GitHub stats](https://github-readme-stats.vercel.app/api?username=gsbcamargo&show_icons=true&theme=radical)
 
 ---
 
