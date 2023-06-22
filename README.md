@@ -1,5 +1,5 @@
 
-### wwelcome!
+### welcome!
 
 How to reach me:
   - mail me gsbcamargo@protonmail.com
