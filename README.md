@@ -1,5 +1,3 @@
-a.k.a gats
-
 ### welcome!
 
 how to reach me:
