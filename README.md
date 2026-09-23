@@ -5,4 +5,4 @@ how to reach me:
   - [![linkedIn](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/gabriel1123)
   - you can also run `npx gsbc` to contact me (almost) anywhere :)
 
-Also visit my website pls https://gabrielschreiner.com.br/
+also do visit my blog gabrielschreiner.com.br
